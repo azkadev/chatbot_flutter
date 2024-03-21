@@ -1,9 +1,12 @@
-# chatbot_flutter
+IyBjaGF0Ym90X2ZsdXR0ZXIKClNpbXBsZSBhcHAgZmx1dHRlciBjaGF0Ym90
+IHJlYWx0aW1lIG1lbmdndW5ha2FuIHByb3RvY29sIHdlYnNvY2tldCBmdWxs
+IGRhcnQgdm0KCj4gcmVwbyBpbmkgYmVydXBhIGJhc2ljIHNpbXBsZSBmbHV0
+dGVyIGRhbiBkYXJ0IHNpbGFoa2FuIHBlbGFqYXJpIHlhIGluZm8gbGViaWgg
+bGFuanV0IGJpc2EgbGloYXQgeW91dHViZSBkaSBiYXdhaAoKW1NwZWVkLUNv
+ZGVdKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Nk9BenpSVVZB
+VncpCgpKaWthIGFkYSBrZXN1bGl0YW4gY2FyYSBydW4gc2lsYWhrYW4gZGlz
+a3VzaSBkaSBnaXRodWIgaW5pIHlhIHRlcmltYWthc2loCg==
 
-Simple app flutter chatbot realtime menggunakan protocol websocket full dart vm
-
-> repo ini berupa basic simple flutter dan dart silahkan pelajari ya info lebih lanjut bisa lihat youtube di bawah
-
-[Speed-Code](https://www.youtube.com/watch?v=6OAzzRUVAVw)
-
-Jika ada kesulitan cara run silahkan diskusi di github ini ya terimakasih
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
